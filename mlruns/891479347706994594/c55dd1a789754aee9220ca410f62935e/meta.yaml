@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/891479347706994594/c55dd1a789754aee9220ca410f62935e/artifacts
+end_time: 1747511242087
+entry_point_name: ''
+experiment_id: '891479347706994594'
+lifecycle_stage: active
+run_id: c55dd1a789754aee9220ca410f62935e
+run_name: rumbling-bug-530
+run_uuid: c55dd1a789754aee9220ca410f62935e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747511226614
+status: 4
+tags: []
+user_id: jacob
